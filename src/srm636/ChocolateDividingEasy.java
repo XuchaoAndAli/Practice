@@ -1,5 +1,5 @@
 package srm636;
-
+// brute force
 public class ChocolateDividingEasy {
 
 	public int findBest(String[] chocolate){
