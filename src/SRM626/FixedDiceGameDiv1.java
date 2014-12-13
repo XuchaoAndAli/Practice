@@ -1,4 +1,4 @@
-package src.SRM626;
+package SRM626;
 
 public class FixedDiceGameDiv1 {
 

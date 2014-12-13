@@ -1,4 +1,4 @@
-package src.SRM625;
+package SRM625;
 /**
  * div 1 No 1
  * pure math

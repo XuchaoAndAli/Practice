@@ -9,10 +9,10 @@ package TCO2014Round3B;
 
 /*
  * Problem Statement
-    
+ï¿½ï¿½ï¿½ï¿½
 You have N bags of pills. Each bag contains a potentially infinite supply of pills. Each bag has a different label, so you can tell them apart. All pills inside all bags look exactly the same. Within each bag, all pills have the same effect. N-1 of the bags contain placebo pills (i.e., pills that have no effect). The last bag contains magic pills. If you take a magic pill, it will take you away from this world and into the Matrix. This is a one-way process: once somebody gets transported to the Matrix, they stay there forever. You have no idea which of the N bags is the one with the magic pills. In order to find it out, you decided to invite some friends and feed them some pills. The experiment will be divided into turns. In each turn, you give some pills to each of your friends who are still present. You can assign the pills to friends arbitrarily. For example, some friends may get zero pills while another friend gets pills from multiple bags. Also, multiple friends may get pills from the same bag in each turn. Once you distributed the pills among the friends, each of them eats all the pills they received. The friends who ate a magic pill disappear into the Matrix. The turn ends. Note that once somebody disappeared, they are gone for the rest of the experiment. You cannot give them more pills in the next rounds. You are given the int N. You are also given an int turns: the maximum number of turns you may take. You are looking for a strategy that will guarantee that you will find the bag with magic pills within the given number of turns. The strategy may be adaptive: When distributing the pills in any given round, you know the results of the previous rounds and you may use that information to decide who gets which pills. Compute and return the smallest number F such that if you invite F friends there will be such a strategy.
 Definition
-    
+ï¿½ï¿½ï¿½ï¿½
 Class:
 IntoTheMatrix
 Method:
@@ -25,7 +25,7 @@ Method signature:
 int takePills(int turns, int N)
 (be sure your method is public)
 Limits
-    
+ï¿½ï¿½ï¿½ï¿½
 Time limit (s):
 2.000
 Memory limit (MB):

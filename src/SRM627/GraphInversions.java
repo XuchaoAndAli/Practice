@@ -1,4 +1,4 @@
-package src.SRM627;
+package SRM627;
 
 import java.util.ArrayList;
 import java.util.List;

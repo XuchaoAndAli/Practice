@@ -1,4 +1,4 @@
-package src.SRM627;
+package SRM627;
 
 public class HappyLetterDiv1 {
 

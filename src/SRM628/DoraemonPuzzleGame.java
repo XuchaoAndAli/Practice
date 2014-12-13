@@ -1,4 +1,4 @@
-package src.SRM628;
+package SRM628;
 unsolved
 /**
  * div1
